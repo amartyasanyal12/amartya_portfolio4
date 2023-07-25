@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analytics Portfolio on Amartya Sanyal</title>
+    <link>https://amartyasanyal12.github.io/amartya_portfolio4/</link>
+    <description>Recent content in Data Analytics Portfolio on Amartya Sanyal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jul 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://amartyasanyal12.github.io/amartya_portfolio4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Predicting House Prices: Advanced Regression Techniques and Using Choropleth (Python)</title>
+      <link>https://amartyasanyal12.github.io/amartya_portfolio4/post/project_1/</link>
+      <pubDate>Fri, 16 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://amartyasanyal12.github.io/amartya_portfolio4/post/project_1/</guid>
+      <description>This project was part of an initiation to Kaggle datasets and competitions. The problem statement is to predict the housing prices from suburbs/towns in USA. The data is available in Kaggle itself. Techniques of data preprocessing is required and then to predict the house prices.
+I have used multiple techniques such as XGBoost, Linear regression, Random Forest to determine the best fit for the project. Used choropleth also to determine the density of the US population.</description>
+    </item>
+    
+    <item>
+      <title>Performance Of Banks In India: Analysis Based On POS-ATM Transactions(2018-2019) (SAS&#43;Python)</title>
+      <link>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-2/</link>
+      <pubDate>Thu, 15 Jul 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-2/</guid>
+      <description>This project was completed during an internship with HDFC Bank, wherein the first part of the project required an overview of the performance of banks in terms of ATM-POS transactions in India. The data was scraped from Reserve bank Of India website; the following years were chosen (2018-2019). The focus area for the project was to understand how HDFC Bank could improve it’s Point of Sales (POS) Machine customer retention and also their performance in comparison to private and government banks in India.</description>
+    </item>
+    
+    <item>
+      <title>Tableau Projects</title>
+      <link>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-10/</link>
+      <pubDate>Wed, 14 Jul 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-10/</guid>
+      <description>Through my daily utilization of Tableau in my current role, I decided to use the opportunity to venture beyond the realm of work into a creating a hobby. With an insatiable curiosity and a passion for sports, I decided to merge my professional skills with my favorite interest. The result? A journey of exploration into the realm of sports analytics using Tableau. The next step was to import the datasets in Tableau desktop, create extracts and start with the analysis.</description>
+    </item>
+    
+    <item>
+      <title>Credit Card defaulters: Classification Project (Python)</title>
+      <link>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-6/</link>
+      <pubDate>Sun, 11 Jul 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-6/</guid>
+      <description>This data was collected from a kaggle competition hosted to classify and predict credit card defaulters. Data engineering and prediction was done to find the best fit in predicting which customer has defaulted. Models such as Catboost, Logistic Regression.
+Work Done: Credit card fraudulent transactions were classified as (1) and non fraudulent as (0). The project in short consists of: from Exploratory data analysis to feature scaling, training models, final score.</description>
+    </item>
+    
+    <item>
+      <title>Football (Soccer) Performance Analytics (EPL Dataset 18-19, 09-10) (Python)</title>
+      <link>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-3/</link>
+      <pubDate>Thu, 08 Jul 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-3/</guid>
+      <description>Being a huge football(Soccer) fan, this was a keen interest area for me. This project was done using libraries such as scikit, math, matplotlib to a name a few
+Scraped data from various websites using python and selenium-JSON and API files/databases Engineered features from the given database to find out the best performing teams in the division based on conversion rate,xG,xA, xGpg, head to head statistics Optimized Linear Regression by composite scoring to get the best model for expected goals per season /per match for a team.</description>
+    </item>
+    
+    <item>
+      <title>Data &amp; Analytics Analyst, Natwest Group</title>
+      <link>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-11/</link>
+      <pubDate>Thu, 08 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-11/</guid>
+      <description>🌍 Delhi, India (March 2022)
+📈 Corporate Finance | Business Intelligence | Capital Management | Insights &amp;amp; Visualization | Data Engineering 📈
+Summary of work done :
+🔹 Reported to the Commercial Banking team of Natwest, merging roles with Capital management, Pricing and Advisory teams.
+🔹 Streamlined and automated batch auditing processes, transitioning from Excel/SAS to Python, and publishing reports in Tableau. This resulted in a one-hour reduction in production time, boosting operational productivity and accuracy.</description>
+    </item>
+    
+    <item>
+      <title>Stakeholder Feedback-Amazon &amp; NWG</title>
+      <link>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-9/</link>
+      <pubDate>Wed, 07 Jul 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-9/</guid>
+      <description>I. Amazon Rewards &amp;amp; Recognition Winner for April, June 2021 II. Natwest Group: Stakeholder &amp;amp; Peer Feedback
+As an integral member of Natwest Group, I am deeply committed to fostering meaningful relationships with our stakeholders and peers. Valuing their feedback and insights, I actively engage to drive continuous improvement and innovation.
+Our 5 Critical people capability skills: Improved Innovator, Change Ready, Critical Thinker, Connected, Trusted Advisor
+Incase resolution is smaller, please zoom in to view the feedback</description>
+    </item>
+    
+    <item>
+      <title>Data Analyst Intern, HDFC Ltd</title>
+      <link>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-13/</link>
+      <pubDate>Tue, 06 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-13/</guid>
+      <description>🌍 Mumbai, India (May 2019-July 2019)
+🎯 Predictive Analysis | Structured &amp;amp; Unstructured Data | Scorecard modelling | Customer Acquisition 🎯
+Summary of work done
+🔹 Leveraged SAS, Python to implement supervised machine learning techniques (Linear / Logistic Regression) on 5TB on-prem database of unstructured data, providing insights to acquire new merchants for Point of Sales (POS) machines.
+🔹 Implemented Wealth Index modelling based on income, investments, assets, and real estate holdings ranking customers of high net worth categories for branches in Jaipur, India.</description>
+    </item>
+    
+    <item>
+      <title>Associate, Amazon Ads</title>
+      <link>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-12/</link>
+      <pubDate>Mon, 14 Jun 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-12/</guid>
+      <description>🌍 Bangalore, India (February 2021-March 2022)
+📊 ACOS &amp;amp; ROAS | Click-Through Rate (CTR) | AWS Quciksight | Cost Optimization | Engagement Metrics 📊
+Summary of work done :
+🔹 Collaborated with cross-functional teams (PPC, Display) to set up and optimize campaigns while ensuring accurate conversion tracking for precise performance evaluation.
+🔹 Maintained comprehensive weekly process reports for valued clients, utilizing Excel Dashboards enriched with Python data visualization libraries and delivering impactful insights through dynamic PowerPoint presentations.</description>
+    </item>
+    
+    <item>
+      <title>Stock Price Prediction: NETFLIX (Python)</title>
+      <link>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-4/</link>
+      <pubDate>Thu, 13 May 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-4/</guid>
+      <description>Used pandas datareader option to import Netflix stock data over the last ten years. Yahoo Api was used to obtain the dataset. The objective of the project was to understand how models such as LSTM/ ARIMAX/ Auto ARIMA works and thus to predict the stock prices for next 2 months and then compare with the actual prices in future. Libraries used Scikit Learn, Matplotlib, Tensorflow, ARIMAX. Keras, Dense, Sequential models were used to predict the future prices Key metrics such as ADF, P-value was implemeted to test normality of data Data preprocessing was done using MinMaxScaler and then the data set was split into training and testing datasets LSTM was implemented and a comparison between actual prices and predicted prices was done.</description>
+    </item>
+    
+    <item>
+      <title>Marketing Intern, Emami Ltd</title>
+      <link>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-14/</link>
+      <pubDate>Mon, 13 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-14/</guid>
+      <description>🌍 Kolkata, India (May 2018-July 2018)
+🚀 Competitor Analysis | Market Research | FGD | Process Automation | ATL &amp;amp; BTL Marketing 🚀
+Summary of work done :
+🔹 Market research and conducting competitor analysis (SWOT, Sales &amp;amp; Channel Analysis) to seek new and lucrative opportunities for growth for Zandu Pancharisht.
+🔹 Collaborating with IMRB, I was part of qualitative research efforts (FGD&amp;rsquo;s), evaluating the OTC potential for a specific product, and leveraging valuable insights to drive strategic improvements that elevated the product&amp;rsquo;s performance in the market.</description>
+    </item>
+    
+    <item>
+      <title>Crypto-currency: EDA and Prediction (Python)</title>
+      <link>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-5/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-5/</guid>
+      <description>Work Done: Scraped data from yahoo website to get the three highest volumes in crypto currencies over the last ten years Libraries used: yfinance, pandas data-reader, matplotlib, mplfinance, seaborn, pandas Exploratory data analysis done to understand stock price movements, volume to get market signals Percentage changes of month on month stock price movements calculated and plotted using distribution plots Candle plot and tickers were charted for a period of three months for the three cryptos.</description>
+    </item>
+    
+    <item>
+      <title>Factor Analysis of BFI Dataset (Python)</title>
+      <link>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-7/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-7/</guid>
+      <description>WORK DONE: Factor analysis is to understand the influences of latent variables(unobserved), you cant directly measure. These latent variables are believed to be driving observed variables. Two types of FA: Exploratory and Confirmatory Exploratory: there is no precise relationship b/w observed and latent variables Confirmatory: it is established^ Two ways to fit the model: Bayesian or by frequency based
+TECHNIQUES APPLIED: Exploratory factor analysis is done using frequencies method Libraries used: factor_analyser, math, scikit_learn etc.</description>
+    </item>
+    
+    <item>
+      <title>Python projects compiled (Python)</title>
+      <link>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-8/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://amartyasanyal12.github.io/amartya_portfolio4/post/project-8/</guid>
+      <description>These are projects done on python, to get in-depth knowledge of the language. These are basic starters projects for a beginner to understand code better.
+Analysis of Boston Housing Dataset: Predicting house prices of suburbs/towns in Boston Area. Link to Github repository Tic Tac Toe Game: This was made by using pygame module and has a GUI board where one can play Link to Github repository ATM management system: A program to check one&amp;rsquo;s ATM balance.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://amartyasanyal12.github.io/amartya_portfolio4/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amartyasanyal12.github.io/amartya_portfolio4/contact/</guid>
+      <description>You can connect with me on these social media platforms/email ID.
+Platform URL Linkedin : https://www.linkedin.com/in/amartyasanyal8/
+Github : https://amartyasanyal12.github.io/Portfolio/
+Corporate Email : sanyaab@rbos.co.uk
+Personal Email ID : amartyasanyal8@gmail.com</description>
+    </item>
+    
+  </channel>
+</rss>
