@@ -12,10 +12,6 @@ This project was part of an initiation to kaggle datasets and competitions. The 
 * 𝑅^2 ,Adjusted 𝑅^2,MAE(Mean of the absolute value of the errors),MSE(Mean square errors),RMSE(Root mean square error) observed and comparison drawn b/w different models.
 * Choropleth library used to find the density of US population for further interest
 
-A snapshot of the project: 
-
-![](/accuracy_score.png)
-![](/probability_plot.png)
 
 ## PROJECT 2
 
@@ -27,10 +23,7 @@ This project was completed during an internship with **HDFC Bank**, wherein the 
 * Feature engineering, feature scaling, binning data 
 * Visual exploration: Univariate, bi-variate and multi-variate visualization
 
-A snapshot of the project:
 
-![](/dc_density_1.png) 
-![](/spectral1.png) 
 
 ## PROJECT 3
 ### [Soccer Performance Analytics (EPL DATASET 18-19, 09-10)](https://github.com/amartyasanyal12/football_performance)
@@ -40,11 +33,6 @@ Being a huge football(Soccer) fan, this was a keen interest area for me. This pr
 * Optimized Linear Regression by composite scoring to get the best model. 
 * In depth Visual analysis of teams performance in that season. (player stats, best teams of each league, ideal 11 etc.)
 
-A snapshot of the project:
-
-![](/distribution3.png)
-
-![](/yellow2.png)
 
 
 ### OTHER PROJECTS: 
@@ -56,4 +44,5 @@ These are projects done on python, to get in-depth knowledge of the language. Th
 
 ### Connect Me At:
 * Social: [Linkedin](https://www.linkedin.com/in/amartyasanyal8/)
+* Tableau: [Tableau]([https://www.linkedin.com/in/amartyasanyal8/](https://public.tableau.com/app/profile/amartya.sanyal/viz/fplstats20-22/Dashboard3)https://public.tableau.com/app/profile/amartya.sanyal/viz/fplstats20-22/Dashboard3)
 * Email: amartyasanyal8@gmail.com
