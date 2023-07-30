@@ -44,5 +44,5 @@ These are projects done on python, to get in-depth knowledge of the language. Th
 
 ### Connect Me At:
 * Social: [Linkedin](https://www.linkedin.com/in/amartyasanyal8/)
-* Tableau: [Tableau]([https://www.linkedin.com/in/amartyasanyal8/](https://public.tableau.com/app/profile/amartya.sanyal/viz/fplstats20-22/Dashboard3)https://public.tableau.com/app/profile/amartya.sanyal/viz/fplstats20-22/Dashboard3/)
+* Tableau: [Tableau]([https://www.linkedin.com/in/amartyasanyal8/](https://public.tableau.com/app/profile/amartya.sanyal/viz/fplstats20-22/Dashboard3))
 * Email: amartyasanyal8@gmail.com
