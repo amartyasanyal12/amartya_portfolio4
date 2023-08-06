@@ -13,6 +13,7 @@ This project was part of an initiation to kaggle datasets and competitions. The 
 * 𝑅^2 ,Adjusted 𝑅^2,MAE(Mean of the absolute value of the errors),MSE(Mean square errors),RMSE(Root mean square error) observed and comparison drawn b/w different models.
 * Choropleth library used to find the density of US population for further interest
 
+![probability_plot.png]
 
 ## PROJECT 2
 
