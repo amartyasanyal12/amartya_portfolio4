@@ -13,7 +13,9 @@ This project was part of an initiation to kaggle datasets and competitions. The 
 * 𝑅^2 ,Adjusted 𝑅^2,MAE(Mean of the absolute value of the errors),MSE(Mean square errors),RMSE(Root mean square error) observed and comparison drawn b/w different models.
 * Choropleth library used to find the density of US population for further interest
 
-![probability_plot.png]
+![image](https://github.com/amartyasanyal12/amartya_portfolio4/assets/87374284/d0aaba4a-3f33-4c41-abb9-1a65bf67d4e7)
+![image](https://github.com/amartyasanyal12/amartya_portfolio4/assets/87374284/39f14312-b3a1-4dd2-9705-8d2169b8cd20)
+
 
 ## PROJECT 2
 
@@ -25,6 +27,8 @@ This project was completed during an internship with **HDFC Bank**, wherein the 
 * Feature engineering, feature scaling, binning data 
 * Visual exploration: Univariate, bi-variate and multi-variate visualization
 
+![image](https://github.com/amartyasanyal12/amartya_portfolio4/assets/87374284/d1de4cfc-1ee7-42e6-a825-ab953a871ccb)
+![image](https://github.com/amartyasanyal12/amartya_portfolio4/assets/87374284/54d63e56-5d94-4f4c-aac3-e27ecea49151)
 
 
 ## PROJECT 3
@@ -35,7 +39,8 @@ Being a huge football(Soccer) fan, this was a keen interest area for me. This pr
 * Optimized Linear Regression by composite scoring to get the best model. 
 * In depth Visual analysis of teams performance in that season. (player stats, best teams of each league, ideal 11 etc.)
 
-
+![image](https://github.com/amartyasanyal12/amartya_portfolio4/assets/87374284/63e4e3b0-b2f7-4f57-8450-eec3e97a4e00)
+![image](https://github.com/amartyasanyal12/amartya_portfolio4/assets/87374284/0ef36fd4-7e81-431d-b4f6-4ffb44ce45ca)
 
 ### OTHER PROJECTS: 
 These are projects done on python, to get in-depth knowledge of the language. These are basic starters projects for a beginner to understand code better.
